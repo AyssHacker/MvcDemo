@@ -1,0 +1,10 @@
+{
+  "name": "MVC",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "AyssHacker <hackerayss@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
